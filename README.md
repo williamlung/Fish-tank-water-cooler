@@ -1,5 +1,5 @@
 # Fish-tank-water-cooler
-利用CPU風冷調節魚缸溫度，配合水溫自動調整風扇速度 <sub>(仍在開發中)</sub>
+利用CPU風冷調節魚缸溫度，配合水溫自動調整風扇速度 <sub>***(處於RND階段當中)***</sub>  
 目標: 2024年1月底前完成開發，測試及部署
 
 ## 專案進度
@@ -20,8 +20,9 @@
 - 3.5inch touch monitor
 - CPU cooler with 2 fans
 - 製冷片
+- 溫度傳感器  
+<sub>以上材料一律淘寶</sub>
 
 ### 設計圖
-
-
+![image](https://github.com/williamlung/Fish-tank-water-cooler/assets/112676745/b5aaa6e7-4b78-4f7a-a7f5-63fe48bd86d5)
 
